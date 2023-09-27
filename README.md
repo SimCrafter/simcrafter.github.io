@@ -1,7 +1,7 @@
 # simcrafter.github.io
 
+___
 ## Info
-
 ___
 
 **bold**
@@ -15,8 +15,8 @@ ___
   + 2
     + 3    
 
-|simsim2008|Ozelinda|
-|----------|--------|
+|SuperproGamer7|Dqrk_7|
+|:------------:|:----:|
 |1|2|
 |3|4|
 
