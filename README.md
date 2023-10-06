@@ -1,11 +1,13 @@
 # simcrafter.github.io
 Zuletzt aktualisiert: 06.10.2023
+
 ___
 
 ## Inhaltsverzeichnis
 + [Inhaltsverzeichnis](#inhaltsverzeichnis)
 + [Info](#info)
 + [Update Changelog](#update-changelog)
+
 ___
 
 ## Info
@@ -14,6 +16,7 @@ Ich habe einen eigenen Minecraft Minigame Server gemacht und ihr könnt mit mir 
 Wie kann man spielen?
 IP: brawl-stars.feathermc.gg
 Version: Java 1.19-1.19.4
+
 ___
 
 ## Update Changelog
