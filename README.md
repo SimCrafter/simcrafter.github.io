@@ -15,7 +15,8 @@ Ich habe einen eigenen Minecraft Minigame Server gemacht und ihr könnt mit mir 
 
 ![](https://static-cdn.jtvnw.net/jtv_user_pictures/d901ad57-2915-4bf4-8a01-066dd310e27f-profile_image-70x70.png)
 
-**Wie kann man spielen?** 
+**Wie kann man spielen?**
+
 IP: brawl-stars.feathermc.gg
 Version: Java 1.19-1.19.4 (bald auf Bedrock verfügbar)
 
@@ -32,17 +33,17 @@ ___
 ## Update Changelog
 ### v1.0 - bald
 + Fortnite in Minecraft wird auf meinem Server veröffentlicht und ist nun während Twitch Streams spielbar!
+
 ___
-#
-#*italic*
-#
-#~~strike~~
-#
-#>1
-#>>2
-#>>>3
-#
-#|SuperproGamer7|Dqrk_7|
-#|:------------:|:----:|
-#|1|2|
-#|3|4|
+
+*italic*
+~~strike~~
+
+>1
+>>2
+>>>3
+
+|SuperproGamer7|Dqrk_7|
+|:------------:|:----:|
+|1|2|
+|3|4|
