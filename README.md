@@ -1,9 +1,8 @@
 # simcrafter.github.io
-Zuletzt aktualisiert: 06.10.2023
+Zuletzt aktualisiert: 09.10.2023
 
 ___
 ## Inhaltsverzeichnis
-+ [Inhaltsverzeichnis](#inhaltsverzeichnis)
 + [Info](#info)
 + [Tutorial](#tutorial)
 + [Update Changelog](#update-changelog)
@@ -16,9 +15,8 @@ Ich habe einen eigenen Minecraft Minigame Server gemacht und ihr könnt mit mir 
 ![](https://static-cdn.jtvnw.net/jtv_user_pictures/d901ad57-2915-4bf4-8a01-066dd310e27f-profile_image-70x70.png)
 
 **Wie kann man spielen?**
-
-IP: brawl-stars.feathermc.gg
-Version: Java 1.19-1.19.4 (bald auf Bedrock verfügbar)
+> IP: brawl-stars.feathermc.gg
+> Version: Java 1.19-1.19.4 (bald auf Bedrock verfügbar)
 
 ___
 ## Tutorial
@@ -29,6 +27,9 @@ ___
 + /trigger stats - Zeige deine Stats an
 + /trigger accolades - Zeige deine Accolades an
 
+### Bauen
+Man kann seine eigenen Gebäude bauen indem man mit den Spawneiern auf dem Boden Rechtsklickt. Gebäude bauen verbraucht einige
+
 ___
 ## Update Changelog
 ### v1.0 - bald
@@ -38,10 +39,6 @@ ___
 
 *italic*
 ~~strike~~
-
->1
->>2
->>>3
 
 |SuperproGamer7|Dqrk_7|
 |:------------:|:----:|
