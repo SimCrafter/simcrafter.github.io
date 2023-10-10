@@ -1,5 +1,5 @@
 # simcrafter.github.io
-Zuletzt aktualisiert: 09.10.2023
+Zuletzt aktualisiert: 10.10.2023
 
 ___
 ## Inhaltsverzeichnis
@@ -16,6 +16,7 @@ Ich habe einen eigenen Minecraft Minigame Server gemacht und ihr könnt mit mir 
 
 **Wie kann man spielen?**
 > IP: brawl-stars.feathermc.gg
+
 > Version: Java 1.19-1.19.4 (bald auf Bedrock verfügbar)
 
 ___
@@ -28,7 +29,10 @@ ___
 + /trigger accolades - Zeige deine Accolades an
 
 ### Bauen
-Man kann seine eigenen Gebäude bauen indem man mit den Spawneiern auf dem Boden Rechtsklickt. Gebäude bauen verbraucht einige
+Man kann seine eigenen Gebäude bauen indem man mit den Spawneiern auf dem Boden Rechtsklickt. Gebäude bauen verbraucht etwas Holz. Holz ist überall zu finden. Logs und Eisenblöcke geben am meisten Holz. Holz wird jedem Spieler in der Tabliste angezeigt. Das Lagerlimit ist 3000.
++ Wand - 20 Holz
++ Boden - 25 Holz
++ Treppe - 30 Holz
 
 ___
 ## Update Changelog
