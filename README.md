@@ -34,6 +34,24 @@ Man kann seine eigenen Gebäude bauen indem man mit den Spawneiern auf dem Boden
 + Boden - 25 Holz
 + Treppe - 30 Holz
 
+### Loot Tables
+Loot Tables sind zufällig generierter Loot, der auf der Karte zu finden ist. Hier sind die Loot Tables die es gibt und was sie beinhalten:
++ Angeln
+  + 25%
++ Truhen
+  + 1 Fernwaffe
+  + 1 Munition
+  + 1 Verbrauchsgegenstand
+  + 30-60 Holz
++ Munitionskisten
+  + 2 Munition
+  + 1 Angel
+
+### Waffen
+
+### Zone
+Die Zone ist ein Bereich der Map, worin man bleiben muss. Wer die Zone verlässt, verliert 1 Herz pro Sekunde. Die Zone sorgt dafür, dass alle Spieler in einem bestimmten Bereich bleiben, damit sie irgendwann aufeinandertreffen. Jedes Mal, wenn die Zone schrumpft, halbiert sich ihr Durchmesser. Sie beginnt bei einem Durchmesser von 400 Blöcken, und schrumpft so lange, bis sie komplett verschwindet.
+
 ___
 ## Update Changelog
 ### v1.0 - bald
