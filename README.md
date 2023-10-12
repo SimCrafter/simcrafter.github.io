@@ -1,5 +1,5 @@
 # simcrafter.github.io
-Zuletzt aktualisiert: 10.10.2023
+Zuletzt aktualisiert: 12.10.2023
 
 ___
 ## Inhaltsverzeichnis
@@ -39,31 +39,38 @@ Loot Tables sind zufällig generierter Loot, der auf der Karte zu finden ist. Hi
 + Angeln
   + 25% Angel
   + 25% Fisch
-  + 25% Fernwaffe
+  + 25% Waffe
   + 12,5% 30-60 Holz
   + 12,5% Munition
 + Truhen
-  + Fernwaffe (ungewöhnlich oder besser)
+  + Waffe (ungewöhnlich oder besser)
   + Munition
   + Verbrauchsgegenstand
-  + 30-60 Holz
+  + Holz
+    + 57,14% 30 Holz
+    + 28,57% 45 Holz
+    + 14,29% 60 Holz
 + Munitionskisten
   + 2x Munition
   + Angel
 
 ### Waffen
-Waffen sind beim Angeln, auf dem Boden und in Truhen zu finden. Sie kommen in 5 verschiedenen Seltenheiten. Jede Seltenheit ist 5% besser als die letzte.
+Waffen sind beim Angeln, auf dem Boden und in Truhen zu finden. Sie kommen in 6 verschiedenen Seltenheiten. Jede Seltenheit ist 5% besser als die letzte.
 + 60,43% Gewöhnlich (weiß)
 + 30,21% Ungewöhnlich (gelb)
 + 7,55% Selten (aqua)
 + 1,51% Episch (helllila)
 + 0,3% Legendär (gold)
++ 0,012% Mythisch (viel Glück lol)
 
 ### Zone
-Die Zone ist ein Bereich der Map, worin man bleiben muss. Wer die Zone verlässt, verliert 1 Herz pro Sekunde. Die Zone sorgt dafür, dass alle Spieler in einem bestimmten Bereich bleiben, damit sie irgendwann aufeinandertreffen. Jedes Mal, wenn die Zone schrumpft, halbiert sich ihr Durchmesser. Sie beginnt bei einem Durchmesser von 400 Blöcken, und schrumpft so lange, bis sie komplett verschwindet.
+Die Zone ist ein Bereich der Map, die man nicht verlassen darf. Wer die Zone verlässt, bekommt 1 Herz pro Sekunde Schaden. Die Zone sorgt dafür, dass alle Spieler in einem bestimmten Bereich bleiben, damit sie irgendwann aufeinandertreffen. Jedes Mal, wenn die Zone schrumpft, halbiert sich ihr Durchmesser. Sie beginnt bei einem Durchmesser von 400 Blöcken, und schrumpft so lange, bis sie komplett verschwindet.
 
 ___
 ## Update Changelog
+### v1.1 - bald
++ Ideen
+
 ### v1.0 - bald
 + Fortnite in Minecraft wird auf meinem Server veröffentlicht und ist nun während Twitch Streams spielbar!
 
