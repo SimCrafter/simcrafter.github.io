@@ -37,17 +37,27 @@ Man kann seine eigenen Gebäude bauen indem man mit den Spawneiern auf dem Boden
 ### Loot Tables
 Loot Tables sind zufällig generierter Loot, der auf der Karte zu finden ist. Hier sind die Loot Tables die es gibt und was sie beinhalten:
 + Angeln
-  + 25%
+  + 25% Angel
+  + 25% Fisch
+  + 25% Fernwaffe
+  + 12,5% 30-60 Holz
+  + 12,5% Munition
 + Truhen
-  + 1 Fernwaffe
-  + 1 Munition
-  + 1 Verbrauchsgegenstand
+  + Fernwaffe (ungewöhnlich oder besser)
+  + Munition
+  + Verbrauchsgegenstand
   + 30-60 Holz
 + Munitionskisten
-  + 2 Munition
-  + 1 Angel
+  + 2x Munition
+  + Angel
 
 ### Waffen
+Waffen sind beim Angeln, auf dem Boden und in Truhen zu finden. Sie kommen in 5 verschiedenen Seltenheiten. Jede Seltenheit ist 5% besser als die letzte.
++ 200 Gewöhnlich (weiß)
++ 100 Ungewöhnlich (gelb)
++ 25 Selten (aqua)
++ 5 Episch (helllila)
++ 1 Legendär (gold)
 
 ### Zone
 Die Zone ist ein Bereich der Map, worin man bleiben muss. Wer die Zone verlässt, verliert 1 Herz pro Sekunde. Die Zone sorgt dafür, dass alle Spieler in einem bestimmten Bereich bleiben, damit sie irgendwann aufeinandertreffen. Jedes Mal, wenn die Zone schrumpft, halbiert sich ihr Durchmesser. Sie beginnt bei einem Durchmesser von 400 Blöcken, und schrumpft so lange, bis sie komplett verschwindet.
