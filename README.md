@@ -53,11 +53,11 @@ Loot Tables sind zufällig generierter Loot, der auf der Karte zu finden ist. Hi
 
 ### Waffen
 Waffen sind beim Angeln, auf dem Boden und in Truhen zu finden. Sie kommen in 5 verschiedenen Seltenheiten. Jede Seltenheit ist 5% besser als die letzte.
-+ 200 Gewöhnlich (weiß)
-+ 100 Ungewöhnlich (gelb)
-+ 25 Selten (aqua)
-+ 5 Episch (helllila)
-+ 1 Legendär (gold)
++ 60,43% Gewöhnlich (weiß)
++ 30,21% Ungewöhnlich (gelb)
++ 7,55% Selten (aqua)
++ 1,51% Episch (helllila)
++ 0,3% Legendär (gold)
 
 ### Zone
 Die Zone ist ein Bereich der Map, worin man bleiben muss. Wer die Zone verlässt, verliert 1 Herz pro Sekunde. Die Zone sorgt dafür, dass alle Spieler in einem bestimmten Bereich bleiben, damit sie irgendwann aufeinandertreffen. Jedes Mal, wenn die Zone schrumpft, halbiert sich ihr Durchmesser. Sie beginnt bei einem Durchmesser von 400 Blöcken, und schrumpft so lange, bis sie komplett verschwindet.
