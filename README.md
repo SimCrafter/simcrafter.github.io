@@ -1,12 +1,11 @@
 # simcrafter.github.io
-Zuletzt aktualisiert: 12.10.2023
+Zuletzt aktualisiert: 16.10.2023
 
 ___
 ## Inhaltsverzeichnis
 + [Info](#info)
 + [Tutorial](#tutorial)
 + [Update Changelog](#update-changelog)
-+ [](#)
   
 ___
 ## Info
@@ -22,9 +21,6 @@ Ich habe einen eigenen Minecraft Minigame Server gemacht und ihr könnt mit mir 
 ___
 ## Tutorial
 ### Commands
-+ /w <name> <Nachricht> - Schreibe einem Spieler eine Nachricht, die nur er/sie sehen kann
-  + /msg <name> <Nachricht>
-  + /whisper <name> <Nachricht>
 + /trigger stats - Zeige deine Stats an
 + /trigger accolades - Zeige deine Accolades an
 
@@ -55,23 +51,21 @@ Loot Tables sind zufällig generierter Loot, der auf der Karte zu finden ist. Hi
   + Angel
 
 ### Waffen
-Waffen sind beim Angeln, auf dem Boden und in Truhen zu finden. Sie kommen in 6 verschiedenen Seltenheiten. Jede Seltenheit ist 5% besser als die letzte.
+Waffen sind beim Angeln, auf dem Boden und in Truhen zu finden. Sie kommen in 5 verschiedenen Seltenheiten. Jede Seltenheit ist 5% besser als die letzte.
 + 60,43% Gewöhnlich (weiß)
 + 30,21% Ungewöhnlich (gelb)
 + 7,55% Selten (aqua)
 + 1,51% Episch (helllila)
 + 0,3% Legendär (gold)
-+ 0,012% Mythisch (viel Glück lol)
 
 ### Zone
-Die Zone ist ein Bereich der Map, die man nicht verlassen darf. Wer die Zone verlässt, bekommt 1 Herz pro Sekunde Schaden. Die Zone sorgt dafür, dass alle Spieler in einem bestimmten Bereich bleiben, damit sie irgendwann aufeinandertreffen. Jedes Mal, wenn die Zone schrumpft, halbiert sich ihr Durchmesser. Sie beginnt bei einem Durchmesser von 400 Blöcken, und schrumpft so lange, bis sie komplett verschwindet.
+Die Zone ist ein Bereich der Map, worin man bleiben muss. Wer die Zone verlässt, bekommt 1 Herz pro Sekunde Schaden. Die Zone sorgt dafür, dass alle Spieler in einem bestimmten Bereich bleiben, damit sie irgendwann aufeinandertreffen. Jedes Mal, wenn die Zone schrumpft, halbiert sich ihr Durchmesser. Sie beginnt bei einem Durchmesser von 400 Blöcken, und schrumpft so lange, bis sie komplett verschwindet.
 
 ___
 ## Update Changelog
-### v1.1 - bald
-+ Ideen
-
-### v1.0 - bald
+### v1.0.1 - 21.10.2023
++ 
+### v1.0 - 20.10.2023
 + Fortnite in Minecraft wird auf meinem Server veröffentlicht und ist nun während Twitch Streams spielbar!
 
 ___
