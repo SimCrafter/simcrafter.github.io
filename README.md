@@ -1,5 +1,5 @@
 # simcrafter.github.io
-Zuletzt aktualisiert: 16.10.2023
+Zuletzt aktualisiert: 17.10.2023
 
 ___
 ## Inhaltsverzeichnis
@@ -43,19 +43,19 @@ Loot Tables sind zufällig generierter Loot, der auf der Karte zu finden ist. Hi
   + Munition
   + Verbrauchsgegenstand
   + Holz
-    + 57,14% 30 Holz
-    + 28,57% 45 Holz
-    + 14,29% 60 Holz
+    + 4/7 30 Holz
+    + 2/7 45 Holz
+    + 1/7 60 Holz
 + Munitionskisten
   + 2x Munition
   + Angel
 
 ### Waffen
 Waffen sind beim Angeln, auf dem Boden und in Truhen zu finden. Sie kommen in 5 verschiedenen Seltenheiten. Jede Seltenheit ist 5% besser als die letzte.
-+ 60,43% Gewöhnlich (weiß)
-+ 30,21% Ungewöhnlich (gelb)
-+ 7,55% Selten (aqua)
-+ 1,51% Episch (helllila)
++ 60% Gewöhnlich (weiß)
++ 30% Ungewöhnlich (gelb)
++ 7,5% Selten (aqua)
++ 1,5% Episch (helllila)
 + 0,3% Legendär (gold)
 
 ### Zone
@@ -64,7 +64,7 @@ Die Zone ist ein Bereich der Map, worin man bleiben muss. Wer die Zone verlässt
 ___
 ## Update Changelog
 ### v1.0.1 - 21.10.2023
-+ 
++ 1
 ### v1.0 - 20.10.2023
 + Fortnite in Minecraft wird auf meinem Server veröffentlicht und ist nun während Twitch Streams spielbar!
 
